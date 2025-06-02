@@ -65,7 +65,7 @@ export default function HomePage() {
                 </CardHeader>
                 <CardContent className="text-center">
                   <p className="text-muted-foreground text-xs sm:text-sm md:text-base">
-                    Com o comando simples <code>!miau</code>, a diversão está a apenas uma mensagem de distância. Sem complicações!
+                    Com o comando simples <code>/miau</code>, a diversão está a apenas uma mensagem de distância. Sem complicações!
                   </p>
                 </CardContent>
               </Card>
@@ -94,6 +94,8 @@ export default function HomePage() {
             <h2 className="text-xl sm:text-3xl md:text-4xl font-bold mb-6 text-foreground font-headline">Pronto para mais Fofura?</h2>
             <p className="text-sm sm:text-lg text-muted-foreground mb-8 max-w-xl mx-auto">
               Adicionar o CuteCatBot ao seu servidor Discord é fácil e rápido. Clique no botão abaixo para começar!
+              <br />
+              Dê o comando <code>/help</code> para ver todos os comandos disponíveis e como utiliza-los.
             </p>
             <Link href={discordInviteLink} passHref legacyBehavior>
               <a target="_blank" rel="noopener noreferrer">

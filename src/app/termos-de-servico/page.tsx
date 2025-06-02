@@ -32,7 +32,7 @@ export default function TermosDeServicoPage() {
 
             <section className="space-y-2">
               <h2 className="text-xl font-semibold text-foreground">2. Descrição do Serviço</h2>
-              <p>O CuteCatBot é um bot para Discord que fornece conteúdo relacionado a gatos e funcionalidades para entretenimento, como o envio programado de fotos de gatos e a resposta ao comando "!miau" com uma foto de gato. As imagens de gatos são fornecidas através da API pública thecatapi.com. O site associado serve para apresentar o bot, seus recursos e fornecer informações relevantes.</p>
+              <p>O CuteCatBot é um bot para Discord que fornece conteúdo relacionado a gatos e funcionalidades para entretenimento, como o envio programado de fotos de gatos e a resposta ao comando "/miau" com uma foto de gato. As imagens de gatos são fornecidas através da API pública thecatapi.com. O site associado serve para apresentar o bot, seus recursos e fornecer informações relevantes.</p>
             </section>
 
             <section className="space-y-2">
