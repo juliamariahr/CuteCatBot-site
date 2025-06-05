@@ -27,7 +27,5 @@ O site contém página com **Termos de Serviço** e **Política de Privacidade**
 
 ## 🐾 Créditos
 API de imagens de gatos: [TheCatAPI](https://thecatapi.com/)
-<br>
-Desenvolvedor: [Júlia Rosado](github.com/juliamariahr)
 
 
